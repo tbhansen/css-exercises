@@ -1,9 +1,14 @@
 .odd-number {
     background-color:rgb(255,167,167);
-    font-family: 'Verdana', 'sans-serif';
+    font-family: Verdana, sans-serif;
 }
-div {
+#ID2 {
     color: rgb(21,25,255);
     font-size: 36px;
-    
+}
+
+#ID3 {
+    background-color: rgb(128, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
 }
